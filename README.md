@@ -1,5 +1,8 @@
-# ripple price gnome ticket 
+# ripple gnome price ticker
 
-Gnome 3 desktop ticker for ripple price with Python and argos. Rename to ripple.1r.60s.py and put in ~/.config/argos
+Get ripple price in Python [https://pythonbasics.org](https://pythonbasics.org).
+See [https://codesharedot.github.io/ripple-price-gnome-ticket/](https://codesharedot.github.io/ripple-price-gnome-ticket/)
 
-https://pythonbasics.org
+ripple price ticker for Gnome desktop. Gets the price with Python and argos.
+
+Rename to ripple.1r60s.py and put in ~/.config/argos
